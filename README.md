@@ -1,0 +1,2 @@
+# nostrdb
+nostr data base
