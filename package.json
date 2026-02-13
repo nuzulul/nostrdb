@@ -1,0 +1,23 @@
+{
+  "name": "nostrdb",
+  "version": "0.0.0",
+  "description": "Nostr Database",
+  "main": "src/nostrdb.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nuzulul/nostrdb.git"
+  },
+  "keywords": [
+    "nostr",
+    "nostrdb"
+  ],
+  "author": "Nuzulul Zulkarnain",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nuzulul/nostrdb/issues"
+  },
+  "homepage": "https://github.com/nuzulul/nostrdb#readme"
+}

@@ -1,2 +1,2 @@
 # nostrdb
-nostr data base
+Nostr Database
